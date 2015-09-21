@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- New document created with Notepad at Wed Sep 09 22:10:00 CDT 2015 -->
+
+
+ <Module>
+   <ModulePrefs title="Costco Stock Price" description="Costco POC OpenSocial Gadget 7" author="David Gruehn" height="225">
+     <Link rel="Icon" href="https://0ae2f19eba65f1eb8d7b5ccfbc1b2eae13aa6d8b.googledrive.com/host/0B0xZvqzeCcXZfnB0Z1hMbjQtaVk1bWc1SlFsQ1RNODNrcDlVLXNEdTlPT0tFX1NLdUNTZUU/icons/00_Costco_Stock_20x20.png"/>
+     <Link rel="MediumIcon" href="https://0ae2f19eba65f1eb8d7b5ccfbc1b2eae13aa6d8b.googledrive.com/host/0B0xZvqzeCcXZfnB0Z1hMbjQtaVk1bWc1SlFsQ1RNODNrcDlVLXNEdTlPT0tFX1NLdUNTZUU/icons/01_Costco_Stock_70x70.png"/>
+     <Link rel="LargeIcon" href="https://0ae2f19eba65f1eb8d7b5ccfbc1b2eae13aa6d8b.googledrive.com/host/0B0xZvqzeCcXZfnB0Z1hMbjQtaVk1bWc1SlFsQ1RNODNrcDlVLXNEdTlPT0tFX1NLdUNTZUU/icons/02_Costco_Stock_150x150.png"/>
+   </ModulePrefs>
+   <Content type="url" href="https://f0cf70e6b7970e1ee488cfabb2d6c3ed8ce7d8e5.googledrive.com/host/0B0xZvqzeCcXZbDNVajhWRlNDd3c/stock.html"/>
+ </Module>
+
+
+
+
